@@ -167,7 +167,7 @@ ion-icon {
 .selecionado{
     border: 5px solid #32B72F;
 }
-button .cor-de-fundo{
+.cor-de-fundo{
     background-color: #32B72F;
 }
 .frango.selecionado ion-icon,
